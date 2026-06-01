@@ -1,0 +1,11 @@
+{
+    "total_packets": 0,
+    "data_transferred": 0,
+    "unique_ips": [],
+    "http_traffic": 0,
+    "https_traffic": 0,
+    "dns_traffic": 0,
+    "mobile_devices": [],
+    "credentials_found": [],
+    "dns_queries": {}
+}
