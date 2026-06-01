@@ -58,8 +58,8 @@ powershell -ExecutionPolicy Bypass -File mac_simple.ps1
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/kaido-dev/wifi-hunter.git
-cd wifi-hunter
+git clone https://github.com/akaido236-cloud/wifi_hunter.git
+cd wifi_hunter
 pip install -r requirements.txt
 ```
 
