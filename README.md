@@ -2,9 +2,9 @@
 
 ```
 ╔══════════════════════════════════════════════════════════╗
-║          [ WIFI HUNTER v3.0 ELITE ]                     ║
-║      Advanced Network Penetration Suite                 ║
-║    ARP │ DNS │ SSL │ CREDENTIAL │ INTERCEPTION         ║
+║          [ WIFI HUNTER v3.0 ELITE ]                      ║
+║      Advanced Network Penetration Suite                  ║
+║    ARP │ DNS │ SSL │ CREDENTIAL │ INTERCEPTION           ║
 ║              ~ by kaido dev ~                            ║
 ╚══════════════════════════════════════════════════════════╝
 ```
